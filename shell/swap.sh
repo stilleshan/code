@@ -95,6 +95,3 @@ case "$num" in
     esac
 }
 main
-
-# curl -O https://raw.githubusercontent.com/stilleshan/code/main/shell/swap.sh && chmod +x swap.sh && ./swap.sh
-# curl -O https://github.ioiox.com/stilleshan/code/raw/branch/main/shell/swap.sh && chmod +x swap.sh && ./swap.sh
