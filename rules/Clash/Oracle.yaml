@@ -1,16 +1,6 @@
 payload:
-  - DOMAIN,oraclecloud.com
-  - DOMAIN,www.oracle.com
-  - DOMAIN,oracle.com
-  - DOMAIN,oraclecloud.com
-  - DOMAIN,oci.oraclecloud.com
-  - DOMAIN,cloud.oracle.com
-  - DOMAIN-SUFFIX,oci.oraclecloud.com
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,oracle.com
-  - DOMAIN-SUFFIX,www.oracle.com
-  - DOMAIN-SUFFIX,go.oracle.com
   - DOMAIN-SUFFIX,oracle.112.2o7.net
   - DOMAIN-SUFFIX,oracleinfinity.io
-  - DOMAIN-SUFFIX,dc.oracleinfinity.io
   - PROCESS-NAME,oracle
