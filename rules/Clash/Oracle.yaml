@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN,oraclecloud.com
+  - DOMAIN,www.oracle.com
+  - DOMAIN,oracle.com
+  - DOMAIN,oraclecloud.com
+  - DOMAIN,oci.oraclecloud.com
+  - DOMAIN,cloud.oracle.com
+  - DOMAIN-SUFFIX,oci.oraclecloud.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,oracle.com
+  - PROCESS-NAME,oracle
