@@ -1,0 +1,17 @@
+## Update 2021-04-16
+
+||*.pinyin.sogou.com
+||v2.get.sogou.com
+||cdn2.ime.sogou.com
+||info.pinyin.sogou.com
+||ping.pinyin.sogou.com
+||config.pinyin.sogou.com
+||p3p.sogou.com
+||get.sogou.com
+||security.ie.sogou.com
+||input.shouji.sogou.com
+||ime.sogou.com
+||wap.sogou.com
+||data.ie.sogou.com
+||vinci.ie.sogou.com
+||config.push.sogou.com

@@ -1,0 +1,6 @@
+payload:
+  # Ultra Mobile
+  - IP-CIDR,208.54.0.0/16
+  - DOMAIN-KEYWORD,ultramobile
+  # Other
+  - DOMAIN-SUFFIX,numlookup.com

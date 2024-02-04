@@ -1,0 +1,75 @@
+/*
+* Colors
+*/
+/*
+* Base structure
+*/
+body {
+  background: #252830;
+  color: #cfd2da;
+}
+
+a {
+  color: #cfd2da;
+}
+
+/**
+* Incidents
+*/
+.col-incident {
+  height: 19rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.col-incident .up {
+  color: #1bc98e;
+}
+.col-incident .down {
+  color: #c93c1b;
+}
+
+/*
+* Tables
+*/
+.dataTables_wrapper {
+  width: 99%;
+}
+.dataTables_wrapper select {
+  color: #434857;
+}
+.dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter {
+  color: #cfd2da;
+}
+
+.table-hover > tbody > tr:hover {
+  background: #434857;
+}
+
+table.dataTable tbody tr {
+  background: none;
+}
+
+.table-bordered, .table-bordered td, .table-bordered th {
+  border: 1px solid #434857;
+}
+
+td {
+  width: 17%;
+}
+td img {
+  height: 8px;
+  margin-left: 10px;
+}
+
+.dataTables_filter {
+  float: right;
+}
+
+.pagination {
+  margin: 0;
+  float: right;
+}
+
+.dataTables_info {
+  margin-top: 6px;
+}

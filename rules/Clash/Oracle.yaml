@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oracle.112.2o7.net
+  - DOMAIN-SUFFIX,oracleinfinity.io
+  - PROCESS-NAME,oracle
