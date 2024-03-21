@@ -5,3 +5,4 @@ payload:
   # Other
   - DOMAIN-SUFFIX,numlookup.com
   - DOMAIN-SUFFIX,numberbarn.com
+  - DOMAIN-SUFFIX,numberbarn.zendesk.com
