@@ -2,7 +2,11 @@ payload:
   # Ultra Mobile
   - IP-CIDR,208.54.0.0/16
   - DOMAIN-KEYWORD,ultramobile
+  - DOMAIN-KEYWORD,numlookup
+  - DOMAIN-KEYWORD,numberbarn
+  - DOMAIN-KEYWORD,realphonevalidation
   # Other
   - DOMAIN-SUFFIX,numlookup.com
   - DOMAIN-SUFFIX,numberbarn.com
   - DOMAIN-SUFFIX,numberbarn.zendesk.com
+  - DOMAIN-SUFFIX,realphonevalidation.com
