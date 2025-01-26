@@ -146,7 +146,7 @@ EOF
 
   systemctl daemon-reload
   systemctl start webhook
-  systemctl status webhook
+  systemctl status webhook --no-pager
   systemctl enable webhook
 
   echo -e "${Green}====================================================================${Font}"
@@ -165,7 +165,7 @@ EOF
   echo 停止服务
   echo systemctl restart webhook
   echo 重启服务
-  echo systemctl status webhook
+  echo systemctl status webhook --no-pager
   echo 查看状态及日志
   echo systemctl enable webhook
   echo 开机自动启动

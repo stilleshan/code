@@ -121,7 +121,7 @@ EOF
   systemctl daemon-reload
   systemctl daemon-reload
   systemctl start github-webhook
-  systemctl status github-webhook
+  systemctl status github-webhook --no-pager
   systemctl enable github-webhook
 
   echo -e "${Green}====================================================================${Font}"
@@ -146,7 +146,7 @@ EOF
   echo 停止服务
   echo systemctl restart github-webhook
   echo 重启服务
-  echo systemctl status github-webhook
+  echo systemctl status github-webhook --no-pager
   echo 查看状态及日志
   echo systemctl enable github-webhook
   echo 开机自动启动
