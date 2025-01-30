@@ -1,6 +1,4 @@
-#!/usr/bin/env bash
-PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
-export PATH
+#!/bin/bash
 
 # 修改以下最大单个日志文件尺寸和日志路径变量.
 # 根据需求自定计划任务运行.
